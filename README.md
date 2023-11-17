@@ -15,3 +15,8 @@
 
 - [Componente de Hardware 1](hardware/hardware1.md)
 - [Componente de Hardware 2](hardware/hardware2.md)
+
+- [Componente de Hardware 1 SE](hardware/hardware1se.md)
+- [Componente de Hardware 2 SE](hardware/hardware2se.md)
+
+Sergio Encinas
