@@ -11,6 +11,7 @@
 | Recursos          | Manuales, herramientas de desarrollo, entornos virtuales, y recursos en línea. |
 | Enfoque           | Integración de conceptos teóricos y prácticos en el desarrollo de aplicaciones web. |
 
-# Enlace Hardware
+# Enlaces Hardware
 
 - [Componente de Hardware 1](hardware/hardware1.md)
+- [Componente de Hardware 2](hardware/hardware2.md)
