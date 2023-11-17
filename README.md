@@ -10,3 +10,7 @@
 | Evaluación        | Exámenes teóricos, proyectos prácticos y participación en clase. |
 | Recursos          | Manuales, herramientas de desarrollo, entornos virtuales, y recursos en línea. |
 | Enfoque           | Integración de conceptos teóricos y prácticos en el desarrollo de aplicaciones web. |
+
+# Enlace Hardware
+
+- [Componente de Hardware 1](hardware/hardware1.md)
